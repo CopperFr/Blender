@@ -29,3 +29,5 @@ For OptiX you need to replace other files and blender.exe because official one i
 **Support is only available for compute capability between 3.0 and 8.9.**  
 
 more about CUDA: https://en.wikipedia.org/wiki/CUDA
+
+Render Image seems to have an issue with OptiX cycles when Open Shading Language is checked (preview is working correctly)
